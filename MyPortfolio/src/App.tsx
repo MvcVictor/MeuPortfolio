@@ -1,3 +1,5 @@
+import Home from "./pages/Home/Home"
+
 const App =() =>{ // App.tsx
  
 
@@ -5,6 +7,7 @@ const App =() =>{ // App.tsx
     <>
       <h1>Welcome to My Portfolio</h1>
       app
+      <Home />
     </>
   )
 }
