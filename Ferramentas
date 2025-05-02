@@ -1,1 +1,1 @@
-print("Hello, World!")
+npm create vite@latest
